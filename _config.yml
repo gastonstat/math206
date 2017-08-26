@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Math 206
+tagline:          'BCC - Math 206'
+description:      'Algebra for Statistics'
+url:              http://gastonsanchez.com/math206
+baseurl:          http://gastonsanchez.com/math206
+
+author:
+  name:           'Gaston Sanchez'
+  url:            http://gastonsanchez.com
+
+paginate:         5
+
+# Custom vars
+version:          Fall 2017
+
+github:
+  repo:           https://github.com/gastonstat/math206
