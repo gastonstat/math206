@@ -45,7 +45,37 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
         2.1.1
       </td>
       <td>
-        OLI mod 7
+        OLI mod 7, 28-30
+      </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>
+        Feb-06<br>
+        Feb-08
+      </td>
+      <td>
+        Intro to OLI, 2.1.2<br>
+        2.1.3, start proj 2.1.A, begin 2.1.4
+      </td>
+      <td>
+        Read mindsets<br>
+        Finish project 2.1A
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>
+        Feb-13<br>
+        Feb-15
+      </td>
+      <td>
+        2.1.4 end, asses proj 2.1A<br>
+        2.1.5 end, 2.2.1 begin
+      </td>
+      <td>
+        OLI mod 7, 31-35<br>
+        OLI chckpt mod 7
       </td>
     </tr>
   </tbody>
