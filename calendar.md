@@ -70,12 +70,33 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
         Feb-15
       </td>
       <td>
-        2.1.4 end, asses proj 2.1A<br>
+        2.1.4 end, asses proj 2.1A, 2.1.5 begin<br>
         2.1.5 end, 2.2.1 begin
       </td>
       <td>
         OLI mod 7, 31-35<br>
         OLI chckpt mod 7
+      </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>
+        Feb-20<br>
+        <br>
+        Feb-22
+      </td>
+      <td>
+        proj 2.1B, review chk 7<br>
+        2.2.1 end, 2.2.2 begin<br>
+
+        assess proj 2.1B<br>
+        2.2.3
+      </td>
+      <td>
+        OLI mod 8, 36-39<br>
+        OLI chckpt mod 7<br>
+
+        OLI chckpt mod 8<br>
       </td>
     </tr>
   </tbody>
