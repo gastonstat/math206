@@ -25,6 +25,7 @@ Integrated developmental mathematics for statistics: Exploratory data analysis a
 
 
 ### Computer Access
+
 You must have regular access to the web outside of class for reading the online interactive text, taking online quizzes, and using data analysis software.
 
 
@@ -57,39 +58,31 @@ A lot of time will be spent working collaboratively with other students. You wil
 
 There are two types of homework assignments. 
 
-- Interactive OLI exercises that are embedded in the OLI text.  You will not be graded on whether you answer these correctly, but merely on whether you do the exercises at all.  Attempting 100% of the exercises yields a grade of 100%.  You are encouraged to do these with other students.  You will receive 9 separate grades, one for each of the nine OLI modules.  Each HW will be due by a specified date; there is no credit for late work.
-- Project assignments. There are 10 project assignments included as part of your reader.  We will begin work on each project during class time, but you will be expected to complete the project as part of homework.  Almost all projects require you to utilize the data analysis software, Statcrunch (see below).  You will be writing small project papers that will be peer-graded, and you will have an opportunity to contest your grade if dissatisfied.  Each project will be due by a specified date; there is no credit for late work.  Your lowest project grade will be dropped.
+- __Interactive OLI exercises.__ These exercises are embedded in the OLI text.  You will not be graded on whether you answer these correctly, but merely on whether you do the exercises at all.  Attempting 100% of the exercises yields a grade of 100%.  You are encouraged to do these with other students.  You will receive 9 separate grades, one for each of the nine OLI modules.  Each HW will be due by a specified date; there is no credit for late work.
+- __Project assignments.__ There are 10 project assignments included as part of your reader.  We will begin work on each project during class time, but you will be expected to complete the project as part of homework.  Almost all projects require you to utilize the data analysis software, Statcrunch (see below).  You will be writing small project papers that will be peer-graded, and you will have an opportunity to contest your grade if dissatisfied.  Each project will be due by a specified date; there is no credit for late work.  Your lowest project grade will be dropped.
 
 
 
 ### Quizzes
 
-- There are about 11 online (at OLI) “checkpoint” quizzes with multiple choice questions.
+- There are about 11 online (at OLI) "checkpoint" quizzes with multiple choice questions.
 - These will be automatically graded by the computer.
 - Each quiz must be taken online before the next class day after it is assigned.
 - The computer will check your quiz answers and provide you with a grade.
 - If you don’t take the quiz by the specified date, you will receive a 0 grade for that quiz.
 - You will need to read the online text and do the interactive exercises for each OLI topic before beginning the checkpoint quiz.
 - You will be able to take each quiz twice to improve your grade.
-- The computer will record the higher of your two grades.
-- Your 2 lowest checkpoint quiz grades (among the 11 quizzes) will be dropped.
 - You are encouraged to take the quizzes with other students.
 
 
 
 ### Exams
 
-There will be 2 exams, plus a comprehensive final exam. Exams consist primarily of open-ended questions, with just some True/False or multiple choice questions.  1.5-2 hours, closed book, closed notes.  
+There will be 2 exams, plus a comprehensive final exam. Exams consist primarily of open-ended questions, with just some True/False or multiple choice questions.  2-2.5 hours, closed book, closed notes.  
 
 If you are going to be absent for an exam, is up to my discretion to decide whether I will give you a make-up exam on the next class day following the exam.  There is no make-up for the final exam.
 
 Calculators without web access are allowed. Calculators without web access can be used for the exams and the final.  You will need a calculator that performs regular arithmetic operations and evaluates exponents.  A calculator with statistical functions is not necessary.
-
-
-
-### Journal
-
-Students will be asked to submit a one-page journal of thoughts and feelings about the class two times – once at the beginning of the course and again toward the end of the course.
 
 
 
