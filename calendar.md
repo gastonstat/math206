@@ -82,6 +82,91 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>2.3.2 end, 2.3.3<br>2.3.4</td>
       <td><b>OLI check mod 9</b></td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>02/27</td>
+      <td>review check mod 9<br>start proj 2.3; 2.4.1b</td>
+      <td>finish proj 2.3</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>03/01</td>
+      <td><b>Exam 1</b></td>
+      <td>OLI mod 10, 45-46</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>03/06</td>
+      <td>2.4.2<br>2.4.3</td>
+      <td>OLI mod 10, 47-51</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>03/08</td>
+      <td>2.4.4; 2.4.5<br> start proj 2.4</td>
+      <td><b>OLI check mod 10</b><br><b>OLI check unit 3</b></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>03/13</td>
+      <td>asses proj 2.4<br>end mod 2</td>
+      <td>OLI mod 10, 47-51</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>03/15</td>
+      <td>assess mod 2 proj<br>3.1.0</td>
+      <td>finish proj 2.4<br>finish end mod 2 proj</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>03/20</td>
+      <td>3.1.1; 3.1.2</td>
+      <td>OLI mod 11, 52-58</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>03/22</td>
+      <td>3.1.3; 3.1.4<br>3.1.5 begin</td>
+      <td>OLI mod 11, 59-65</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>03/27</td>
+      <td>3.1.5 end; 3.1.7<br>3.1.8; 3.2.1</td>
+      <td><b>OLI check mod 11</b><br>3.1.9</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>03/29</td>
+      <td>start proj 3.1; review check mod 11<br>
+      	  3.2.2; 3.2.3 begin</td>
+      <td>OLI mod 12, 66-67<br>finish proj 3.1</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>04/03</td>
+      <td>asses proj 3.1<br>3.2.3 end; 3.2.4 begin</td>
+      <td>OLI mod 12, 68-71<br>skip mod 13</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>04/05</td>
+      <td>3.2.4 end; 3.2.5</td>
+      <td><b>OLI check mod 12</b><br><b>OLI check unit 4</b></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>04/10</td>
+      <td>3.2.7; 3.2.8<br>exam review</td>
+      <td>study for exam 2</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>04/12</td>
+      <td><b>Exam 2</b></td>
+      <td>finish proj 3.2</td>
+    </tr>
   </tbody>
  </table>
 
