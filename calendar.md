@@ -13,7 +13,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
 <table>
   <thead>
     <tr>
-      <th align="left">Week</th>
+      <th align="left">Num</th>
       <th align="left">Date</th>
       <th align="left">In-class</th>
       <th align="left">HW</th>
@@ -22,94 +22,43 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
   <tbody>
     <tr>
       <td>1</td>
-      <td>
-        Jan-23<br>
-        Jan-25
-      </td>
-      <td>
-        Introduction<br>
-        Read syllabus
-      </td>
-      <td>
-        Read syllabus
-      </td>
+      <td>01/23</td>
+      <td>Introduction</td>
+      <td>Read syllabus</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>
-        Jan-30<br>
-        Feb-01
-      </td>
-      <td>
-        2.1.0 end<br>
-        2.1.1
-      </td>
-      <td>
-        OLI mod 7, 28-30
-      </td>
+      <td>01/25</td>
+      <td>2.1.0 end<br>2.1.1</td>
+      <td>OLI mod 7, 28-30</td>
     </tr>
     <tr>
       <td>3</td>
-      <td>
-        Feb-06<br>
-        Feb-08
-      </td>
-      <td>
-        Intro to OLI, 2.1.2<br>
-        2.1.3, start proj 2.1.A, begin 2.1.4
-      </td>
-      <td>
-        Read mindsets<br>
-        Finish project 2.1A
-      </td>
+      <td>01/30</td>
+      <td>Intro to OLI<br>2.1.2</td>
+      <td>Read mindsets</td>
     </tr>
     <tr>
       <td>4</td>
-      <td>
-        Feb-13<br>
-        Feb-15
-      </td>
-      <td>
-        2.1.4 end, asses proj 2.1A, 2.1.5 begin<br>
-        2.1.5 end, 2.2.1 begin
-      </td>
-      <td>
-        OLI mod 7, 31-35<br>
-        OLI chckpt mod 7
-      </td>
+      <td>02/01</td>
+      <td>2.1.3, start proj 2.1A<br>
+          2.1.4 begin</td>
+      <td>finish 2.1A<br>packet pgs 42-43</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>
-        Feb-20<br>
-        <br>
-        Feb-22
-      </td>
-      <td>
-        proj 2.1B, review chk 7<br>
-        2.2.1 end, 2.2.2 begin<br>
-
-        assess proj 2.1B<br>
-        2.2.3
-      </td>
-      <td>
-        OLI mod 8, 36-39<br>
-        OLI chckpt mod 7<br>
-
-        OLI chckpt mod 8<br>
-      </td>
+      <td>02/06</td>
+      <td>2.1.4 end<br>assess proj 2.1A<br>2.1.5 begin</td>
+      <td>OLI mod 7, 31-35</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>02/08</td>
+      <td>2.1.5 end<br>2.2.1 begin</td>
+      <td>OLI check mod 7</td>
     </tr>
   </tbody>
  </table>
 
 
 -----
-
-
-| Num | Date  | Topic        | In class     | HW              |
-|-----|-------|--------------|--------------|-----------------|
-|  1  | 01/23 | Introduction | Intro        | Read syllabus   |
-|     |       |              | 2.1.0 begin  |                 |
-|  2  | 01/25 | Distribution | 2.1.0 end    | OLI mod 7 28-30 |
-|     |       |              | 2.1.1        |                 |
-|  3  | 01/30 | Dotplots     | Intro to OLI | Read mindsets   |
