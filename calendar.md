@@ -55,7 +55,32 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>6</td>
       <td>02/08</td>
       <td>2.1.5 end<br>2.2.1 begin</td>
-      <td>OLI check mod 7</td>
+      <td><b>OLI check mod 7</b></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>02/13</td>
+      <td>start proj 2.1B, review check mod 7<br>
+          2.2.1 end, 2.2.2</td>
+      <td>OLI mod 8, 36-39<br>finish proj 2.1B</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>02/15</td>
+      <td>assess 2.1B<br>2.2.3</td>
+      <td><b>OLI check mod 8</b></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>02/20</td>
+      <td>review check mod 8<br>2.3.1, 2.3.2</td>
+      <td>OLI mod 9, 40-44</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>02/22</td>
+      <td>2.3.2 end, 2.3.3<br>2.3.4</td>
+      <td><b>OLI check mod 9</b></td>
     </tr>
   </tbody>
  </table>
