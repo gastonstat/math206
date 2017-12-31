@@ -143,29 +143,102 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       	  3.2.2; 3.2.3 begin</td>
       <td>OLI mod 12, 66-67<br>finish proj 3.1</td>
     </tr>
+
     <tr>
       <td>21</td>
       <td>04/03</td>
+      <td><em>Spring break</em></td>
+      <td><em>none</em></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>04/03</td>
+      <td><em>Spring break</em></td>
+      <td><em>none</em></td>
+    </tr>
+
+    <tr>
+      <td>23</td>
+      <td>04/10</td>
       <td>asses proj 3.1<br>3.2.3 end; 3.2.4 begin</td>
       <td>OLI mod 12, 68-71<br>skip mod 13</td>
     </tr>
     <tr>
-      <td>22</td>
-      <td>04/05</td>
+      <td>24</td>
+      <td>04/12</td>
       <td>3.2.4 end; 3.2.5</td>
       <td><b>OLI check mod 12</b><br><b>OLI check unit 4</b></td>
     </tr>
     <tr>
-      <td>23</td>
-      <td>04/10</td>
+      <td>25</td>
+      <td>04/17</td>
       <td>3.2.7; 3.2.8<br>exam review</td>
       <td>study for exam 2</td>
     </tr>
     <tr>
-      <td>24</td>
-      <td>04/12</td>
+      <td>26</td>
+      <td>04/19</td>
       <td><b>Exam 2</b></td>
       <td>finish proj 3.2</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>04/24</td>
+      <td>assess proj 3.2<br>5.1.0; 5.1.1</td>
+      <td>OLI mod 15, 88-90</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>04/26</td>
+      <td>5.1.2; 5.1.3</td>
+      <td>OLI mod 15, 91-92</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>05/01</td>
+      <td>start proj 5.1; 5.1.5<br>
+          start proj 5.2</td>
+      <td>OLI mod 15, 93<br>finish proj 5.1 and 5.2</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>05/03</td>
+      <td>assess proj 5.1 and 5.2<br>
+          5.1.6</td>
+      <td><em>none</em></td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>05/08</td>
+      <td>start proj 5.1.3<br>1.1.1; 1.2.1 begin</td>
+      <td>finish proj 5.3<br>OLI mod 15, 94-95<br>
+          <b>OLI check mod 15</b></td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>05/10</td>
+      <td>asses proj 5.3<br>1.2.1 end; 1.2.2</td>
+      <td>OLI mod 4, 10-16<br>
+          <b>OLI check mod 4</b></td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>05/15</td>
+      <td>1.3.1; 1.3.2</td>
+      <td>OLI mod 5, 17-20<br>
+          <b>OLI check mod 5</b></td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>05/17</td>
+      <td>review for final exam</td>
+      <td>OLI mod 6, 21-25</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>05/22</td>
+      <td><b>Final exam</b></td>
+      <td><em>none</em></td>
     </tr>
   </tbody>
  </table>
