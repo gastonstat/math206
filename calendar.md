@@ -103,3 +103,13 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
  </table>
 
 
+-----
+
+
+| Num | Date  | Topic        | In class     | HW              |
+|-----|-------|--------------|--------------|-----------------|
+|  1  | 01/23 | Introduction | Intro        | Read syllabus   |
+|     |       |              | 2.1.0 begin  |                 |
+|  2  | 01/25 | Distribution | 2.1.0 end    | OLI mod 7 28-30 |
+|     |       |              | 2.1.1        |                 |
+|  3  | 01/30 | Dotplots     | Intro to OLI | Read mindsets   |
