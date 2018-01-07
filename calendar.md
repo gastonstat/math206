@@ -156,7 +156,8 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
     <tr>
       <td>20</td>
       <td>03/29</td>
-      <td>start proj 3.1; review check mod 11<br>
+      <td>start proj 3.1<br>
+          review check mod 11<br>
       	  3.2.2; 3.2.3 begin</td>
       <td>OLI mod 12, 66-67<br>finish proj 3.1</td>
     </tr>
@@ -198,8 +199,8 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td><b>Exam 2</b></td>
       <td>finish proj 3.2</td>
     </tr>
-  </thead>
-</tbody>
+  </tbody>
+</table>
 
 
 <br>
