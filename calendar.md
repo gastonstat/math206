@@ -94,6 +94,23 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td><b>Exam 1</b></td>
       <td>OLI mod 10, 45-46</td>
     </tr>
+  </tbody>
+</table>
+
+
+<br>
+
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Num</th>
+      <th align="left">Date</th>
+      <th align="left">In-class</th>
+      <th align="left">HW</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>13</td>
       <td>03/06</td>
@@ -181,6 +198,23 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td><b>Exam 2</b></td>
       <td>finish proj 3.2</td>
     </tr>
+  </thead>
+</tbody>
+
+
+<br>
+
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Num</th>
+      <th align="left">Date</th>
+      <th align="left">In-class</th>
+      <th align="left">HW</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>27</td>
       <td>04/24</td>
