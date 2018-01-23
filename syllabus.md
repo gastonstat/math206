@@ -44,7 +44,7 @@ Your computer may need to be correctly configured to use the OLI materials, and 
 
 ### Course Packet
 
-The course packet is 350 pages in length and contains daily class exercises and project assignments. It can be purchased only at the BCC bookstore on the 5th floor. It retails for about $30.00.
+The course packet is about 350 pages in length and contains daily class exercises and project assignments. It can be purchased only at the BCC bookstore on the 5th floor. It retails for $28.50 + tax.
 
 
 
@@ -135,8 +135,7 @@ Free math tutoring is available at the Learning Resource Center (LRC) in Room 11
 
 ### Withdrawal
 
-Students are responsible for withdrawing from the class.  Students who stop attending but do not withdraw will not be automatically withdrawn by the instructor.  If a student doesn’t withdraw and misses an exam, the final grade will most likely be an F.
-
+The instructor may elect to drop you from the class if you miss more than six days of class. However, it is your responsibility to officially drop the course should you decide to do so, otherwise you may receive an "F". The last day to Withdraw from regular session classes and receive a "W" for this semester is Thursday April 26.
 
 
 ### Cheating Policy
@@ -152,6 +151,8 @@ Students with learning and/or physical disabilities can register in the PSSD off
 
 
 ### Student Learning Outcomes
+
+Upon completion of this course, students will:
 
 - Representation: Represent relevant information in various mathematical or algorithmic forms. (conversion of words to mathematical symbols and graphs)
  
