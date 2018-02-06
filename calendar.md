@@ -43,7 +43,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>02/01</td>
       <td>2.1.3, start proj 2.1A<br>
           2.1.4 begin</td>
-      <td><a href="projects/project-2-1A.pdf">finish 2.1A</a><br>packet pgs 42-43</td>
+      <td><a href="./projects/project-2-1A.pdf">finish 2.1A</a><br>packet pgs 42-43</td>
     </tr>
     <tr>
       <td>5</td>
