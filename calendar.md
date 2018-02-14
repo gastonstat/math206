@@ -86,7 +86,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>11</td>
       <td>02/27</td>
       <td>review check mod 9<br>start proj 2.3; 2.4.1b</td>
-      <td>finish proj 2.3</td>
+      <td><b><a href="../projects/project-2-3.pdf">finish 2.3</a></b></td>
     </tr>
     <tr>
       <td>12</td>
