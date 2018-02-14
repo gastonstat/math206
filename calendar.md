@@ -133,7 +133,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>16</td>
       <td>03/15</td>
       <td>assess mod 2 proj<br>3.1.0</td>
-      <td>finish proj 2.4<br>finish end mod 2 proj</td>
+      <td>finish proj 2.4<br><b><a href="../projects/project-end-module2.pdf">finish end mod 2 proj</a></b></td>
     </tr>
     <tr>
       <td>17</td>
