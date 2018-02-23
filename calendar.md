@@ -43,7 +43,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>02/01</td>
       <td>2.1.3, start proj 2.1A<br>
           2.1.4 begin</td>
-      <td><b><a href="../projects/project-2-1A.pdf">finish 2.1A</a></b><br>packet pgs 42-43</td>
+      <td><b><a href="../projects/project-2-1A.pdf">project 2.1A</a></b><br>packet pgs 42-43</td>
     </tr>
     <tr>
       <td>5</td>
@@ -62,7 +62,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>02/13</td>
       <td>start proj 2.1B, review check mod 7<br>
           2.2.1 end, 2.2.2</td>
-      <td>OLI mod 8, 36-39<br><b><a href="../projects/project-2-1B.pdf">finish 2.1B</a></b></td>
+      <td>OLI mod 8, 36-39<br><b><a href="../projects/project-2-1B.pdf">project 2.1B</a></b></td>
     </tr>
     <tr>
       <td>8</td>
@@ -86,7 +86,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>11</td>
       <td>02/27</td>
       <td>review check mod 9<br>start proj 2.3; 2.4.1b</td>
-      <td><b><a href="../projects/project-2-3.pdf">finish 2.3</a></b></td>
+      <td><b><a href="../projects/project-2-3.pdf">project 2.3</a></b></td>
     </tr>
     <tr>
       <td>12</td>
@@ -121,7 +121,9 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>14</td>
       <td>03/08</td>
       <td>2.4.4; 2.4.5<br> start proj 2.4</td>
-      <td><b>OLI check mod 10</b><br><b>OLI check unit 3</b></td>
+      <td><b><a href="../projects/project-2-4.pdf">project 2.4</a></b><br>
+          <b>OLI check mod 10</b><br>
+          <b>OLI check unit 3</b></td>
     </tr>
     <tr>
       <td>15</td>
