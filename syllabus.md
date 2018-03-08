@@ -90,8 +90,9 @@ Calculators without web access are allowed. Calculators without web access can b
 
 Your course grade is based on homework, project assignments, quizzes, midterm exams, and a comprehensive final exam. The percentage breakdown for each component is as follows:
 
+- 5% In-class Activity Packet and participation
 - 15% Interactive Online Homework (9 modules)
-- 25% 10 Project Assignments
+- 20% 10 Project Assignments
 - 15% 11 Online (OLI) Checkpoint Quizzes
 - 30% 2 Two-hour Exams (15% each)
 - 15% Final Exam
