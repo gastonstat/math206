@@ -182,7 +182,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
       <td>04/10</td>
       <td>asses proj 3.1<br>3.2.3 end; 3.2.4 begin</td>
       <td>OLI mod 12, 68-71<br>skip mod 13<br>
-        <b><a href="../projects/project3-1.pdf">finish proj 3.1</a><b></td>
+        <b><a href="../projects/project3-1.pdf">finish proj 3.1</a></b></td>
     </tr>
     <tr>
       <td>24</td>
