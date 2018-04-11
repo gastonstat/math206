@@ -158,8 +158,7 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
     <tr>
       <td>20</td>
       <td>03/29</td>
-      <td>start proj 3.1<br>
-          review check mod 11<br>
+      <td>review check mod 11<br>
       	  3.2.2; 3.2.3 begin</td>
       <td>OLI mod 12, 66-67</td>
     </tr>
@@ -180,27 +179,27 @@ Note: Checkpoints are due by the next day of classes from the day displayed on t
     <tr>
       <td>23</td>
       <td>04/10</td>
-      <td>asses proj 3.1<br>3.2.3 end; 3.2.4 begin</td>
+      <td>3.2.3 end; 3.2.4 begin</td>
       <td>OLI mod 12, 68-71<br>skip mod 13<br>
         <b><a href="../projects/project3-1.pdf">finish proj 3.1</a></b></td>
     </tr>
     <tr>
       <td>24</td>
       <td>04/12</td>
-      <td>3.2.4 end; 3.2.5</td>
+      <td>asses proj 3.1<br>3.2.4 end; 3.2.5</td>
       <td><b>OLI check mod 12</b><br><b>OLI check unit 4</b></td>
     </tr>
     <tr>
       <td>25</td>
       <td>04/17</td>
       <td>3.2.7; 3.2.8<br>exam review</td>
-      <td>study for exam 2</td>
+      <td><b><a href="../projects/project3-2.pdf">finish proj 3.2</a></b></td>
     </tr>
     <tr>
       <td>26</td>
       <td>04/19</td>
       <td><b>Exam 2</b></td>
-      <td>finish proj 3.2</td>
+      <td><em>none</em></td>
     </tr>
   </tbody>
 </table>
